@@ -1,1 +1,1 @@
-from .blackjack import *
+from .core import *
